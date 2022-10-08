@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+ReactJS;I'm+a+Computer+Science+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+ReactJS developer; /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/farooqderghami/" target="_blank">
@@ -18,38 +18,8 @@
 - 💬 Talk to me about software engineering.
 - 👯 I’m looking to collaborate on Frontend software engineering projects.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-
-   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-  
-
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
- 
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-
-<br/>
 
 
 ----------------------------------------------------------------------
-Credit: [waqas](https://github.com/waqaskhanroghani)
+Credit: [farooq](https://www.linkedin.com/in/farooqderghami/)
 
